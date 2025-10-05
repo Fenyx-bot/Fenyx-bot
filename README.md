@@ -18,4 +18,5 @@ I would love to:
 Let's get in touch:
 
 - <a href="mailto:aymenmhiri53@gmail.com">Email</a>
+- <a href="https://www.instagram.com/aymen.mhiri/">Instagram</a>
 - <a href="https://fenyx-bot.itch.io/">Check out my games!</a>
