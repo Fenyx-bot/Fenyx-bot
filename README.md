@@ -4,8 +4,7 @@ About Me:
 - 🔭 I’m Software Developer / Engineer
 - 💻 I'm an indie Game Developer
 - 👨‍🎓 I’m currently studying Computer Science
-- 🎮 Gamer
-- 🏃‍ Mostly Active
+- 🎮 I'm into computer graphics
 
 I would love to:
 
@@ -18,5 +17,5 @@ I would love to:
 Let's get in touch:
 
 - <a href="mailto:aymenmhiri53@gmail.com">Email</a>
-- <a href="https://www.instagram.com/aymen.mhiri/">Instagram</a>
+- <a href="https://www.linkedin.com/in/mohaymenmhiri/">LinkedIn</a>
 - <a href="https://fenyx-bot.itch.io/">Check out my games!</a>
